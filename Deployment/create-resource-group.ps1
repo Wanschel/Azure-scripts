@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name 'Staging_VMs' -Location 'East US' -Force
