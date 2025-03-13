@@ -1,0 +1,1 @@
+new-azpolicyassignment -scope $rg.ResourceID -policydefinition $definition -name 'RGLocationMatch' -displayname 'Resource Group Matches resources location'
